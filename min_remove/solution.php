@@ -27,6 +27,7 @@
     function solve(){
         $a = readline('Enter a string: ');
         echo minRemoveToMakeValid($a);
+        echo "\n";
     }
 
     solve();
